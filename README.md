@@ -1,19 +1,49 @@
-# 💫 About Me:
-Estudante do 3º ano do ensino médio técnico em informática
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dborbab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dborbab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abacaxiiassado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliadeborbabarros@gmail.com) 
-# Last scrobble!
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ulhaa&count=1&bg_color=2e2e2e&header_style=compact&footer_style=compact_stats&border_radius=3&width=300)
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dborbab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dborbab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dborbab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# About Me:
+**Estudante do 3º ano do ensino médio técnico em informática**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dborbab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect with Me:
+[![Instagram](https://img.shields.io/badge/Instagram-8B0000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dborbab) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@dborbab) 
+[![X](https://img.shields.io/badge/X-8B0000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abacaxiiassado) 
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliadeborbabarros@gmail.com)
+
+---
+
+## Currently Playing:
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ulhaa&count=1&bg_color=0a0a0a&text_color=8B0000&header_style=compact&footer_style=compact_stats&border_radius=0&width=350)
+
+---
+
+## Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=8B0000) 
+![PHP](https://img.shields.io/badge/PHP-8B0000.svg?style=for-the-badge&logo=php&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=8B0000) 
+![HTML5](https://img.shields.io/badge/HTML5-8B0000.svg?style=for-the-badge&logo=html5&logoColor=black) 
+![CSS3](https://img.shields.io/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=8B0000) 
+![MySQL](https://img.shields.io/badge/MySQL-8B0000.svg?style=for-the-badge&logo=mysql&logoColor=black) 
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=8B0000)
+
+---
+
+## GitHub Stats:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dborbab&theme=radical&bg_color=0a0a0a&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dborbab&theme=radical&background=0a0a0a&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=ffffff&sideNums=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&dates=ffffff&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dborbab&theme=radical&bg_color=0a0a0a&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dborbab&color=8B0000&style=for-the-badge&label=VISITORS)](https://github.com/dborbab)
+
+</div>
