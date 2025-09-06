@@ -11,6 +11,8 @@ Estudante do 3º ano do ensino médio técnico em informática
 ![](https://github-readme-stats.vercel.app/api?username=dborbab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dborbab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dborbab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#Last scrobble!
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ulhaa&count=1&bg_color=2e2e2e&header_style=compact&footer_style=compact_stats&border_radius=3&width=300)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dborbab&icon=0&color=0)](https://visitcount.itsvg.in)
