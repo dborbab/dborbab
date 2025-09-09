@@ -42,8 +42,4 @@
 
 ---
 
-<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dborbab&color=8B0000&style=for-the-badge&label=VISITORS)](https://github.com/dborbab)
-
-</div>
